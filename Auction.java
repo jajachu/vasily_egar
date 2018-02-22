@@ -8,6 +8,5 @@ public class Auction {
     public static void main(String[] args) {
         UserView run = new UserView();
         run.userView();
-
     }
 }
